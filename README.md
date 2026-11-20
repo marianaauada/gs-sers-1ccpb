@@ -176,8 +176,6 @@ Alternativa C: necessita de uma área para instalar três painéis solares (por 
 
 ## 6. Diagrama conceitual
 
-<img width="967" height="362" alt="image" src="https://github.com/user-attachments/assets/d3b4db77-c2af-4c30-aa7c-78b1b9a764c4" />
-
 **Fluxo de dados do diagrama**
 
 A energia vem dos painéis fotovoltaicos (1,65 kWp), passa pelo inversor e pelo medidor bidirecional, que troca créditos de kWh com a rede da Enel, e alimenta as 15 luminárias LED de 50 W. Os sensores de presença e de luz enviam sinais ao controlador, que faz a dimerização das luminárias. O gateway IoT coleta os dados das luminárias e os envia ao processamento, que calcula kWh, R$ e CO₂. O dashboard apresenta os indicadores e dispara alertas quando um ponto de luz falha.
