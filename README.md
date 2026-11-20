@@ -176,7 +176,7 @@ Alternativa C: necessita de uma área para instalar três painéis solares (por 
 
 ## 6. Diagrama conceitual
 
-![Diagrama conceitual da solução](diagrama.pdf)
+<img width="367" height="119" alt="image" src="https://github.com/user-attachments/assets/ced1aec6-b23e-4339-a430-cf9483670567" />
 
 **Fluxo de dados do diagrama**
 
